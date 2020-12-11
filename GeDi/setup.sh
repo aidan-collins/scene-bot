@@ -5,5 +5,6 @@ cd apex
 pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" apex
 cd ..
 pip install tensorboardX
+pip install tensorboard 
 pip install scikit-learn
 pip install seqeval
