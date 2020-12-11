@@ -1,4 +1,5 @@
-
+## This is a modified fork of the orignial salesforce GeDi model repository. https://github.com/salesforce/GeDi 
+This is a truly remarkable project from my perspective many thanks and much respect! I have tweaked the code to resolve version bugs that prevent training new GeDi models. I have also provided a smoother workflow to train the model. Instructions are redacted due to ethicality concerns. Please contact me if you have further questions about training your own GeDi model with the help of these training scripts. 
 
 
 ![GeDi logo](https://github.com/salesforce/GeDi/blob/master/gedi_logo_small.png)
