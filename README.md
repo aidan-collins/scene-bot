@@ -1,8 +1,12 @@
 # scene-bot
 SceneBot helps to generate movie scene dialogues... interactively!
-First, if you have trouble running this colab please let me know: arcollins@massart.edu. I'll try to respond within a few hours.
-A direct link can be found here:
+
+First, if you have trouble running this colab please let me know: arcollins@massart.edu. 
+I'll try to respond within a few hours.
+
+A direct link to a colab demo can be found here:
 https://colab.research.google.com/drive/19el9B8TDrc-mlTbBT6mlO_sAyW6AIcUE?usp=sharing
+
 SceneBot is the culmination of my first semester in the SIM department (Studio for Interrelated Media) at Mass Art. It is a multi-month project. I began SceneBot with a more granular focus, which evolved into recognizing a need to address a number of challenges regarding the interface between art production and data science. I now plan to turn my attention to refining the relationship between data and art from a theoretical perspective. Hopefully, this project marks the beginning of a long exploration into the concept of "mechanisms that inspire." Viewing art through this functional lens allows for a more intuitive interface between "human-scale" concepts and those of big data. In turn, this environment will enable application of large-scale insight to the personal creative practice, promising to generally accelerate creative efforts across the arts.
 For more on these conceptual topics, please read my essay -- "Scene Bot Frontiers_ in the application of artificial intelligence as artistic medium" -- and email me your thoughts at arcollins@massart.edu. I'm excited to elicit the most diverse set of reactions to these ideas I can -- please don't hold back. It's a little complex, but I hope that it communicates the broad areas of data science that strike me as promising for artists. Sharing domain knowledge has emerged as an important obstacle to the adoption of AI tech. Again, if there's any confusion, I'd be excited to discuss the paper further. I think all the ideas discussed are deeply relevant to art practice beyond the computational.
 To play with SceneBot all you have to do is click this link: https://colab.research.google.com/drive/19el9B8TDrc-mlTbBT6mlO_sAyW6AIcUE?usp=sharing. This will bring you to a "google colab" instance where you will be able to run the first two cells to set up your system, and the third cell will start a conversation. You will need to put in valid google credentials to get access to the gsutil application. If you are as concerned about privacy as I am, don't worry as you will only be opening a private client that will privately connect to my google bucket where I've stored the trained models (4 of them).
